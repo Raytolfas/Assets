@@ -2,13 +2,7 @@
   {
     "name": "telebot",
     "repo": "RayQuiro/Telebot",
-    "description": "Test",
-    "category": "math"
-  },
-  {
-    "name": "teleboter",
-    "repo": "RayQuiro/Telebot",
-    "description": "Test",
+    "description": "Telegram bot framework for RayQuiro with long polling, commands, buttons, documents, and Bot API helpers.",
     "category": "math"
   }
 ]
