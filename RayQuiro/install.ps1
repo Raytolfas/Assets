@@ -1,5 +1,5 @@
 param(
-    [string]$ManifestUrl = "https://raw.githubusercontent.com/Raytolfas/Assets/refs/heads/main/RayQuiro/update.json",
+    [string]$ManifestUrl = "https://rq.raytolfas.cc/update",
     [string]$InstallRoot = $(if ($env:ProgramFiles) { Join-Path $env:ProgramFiles "RayQuiro" } else { "C:\Program Files\RayQuiro" })
 )
 
