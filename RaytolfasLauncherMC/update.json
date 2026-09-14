@@ -1,7 +1,7 @@
 {
   "version": "0.0.4.1",
-  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher.exe",
-  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher.exe",
-  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher",
+  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.4.1/RaytolfasLauncher.exe",
+  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.4.1/RaytolfasLauncher.exe",
+  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.4.1/RaytolfasLauncher",
   "changelog": "Fixing Java installation issues on Linux ARM64-based systems"
 }
