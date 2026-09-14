@@ -1,7 +1,7 @@
 {
-  "version": "0.0.4",
-  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4/download/RaytolfasLauncher.exe",
-  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4/download/RaytolfasLauncher.exe",
-  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4/download/RaytolfasLauncher",
-  "changelog": "• Полный перенос на Avalonia UI\n• Поддержка Linux (Ubuntu, Fedora, Arch и др.)\n• Улучшена стабильность и скорость работы"
+  "version": "0.0.4.1",
+  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher.exe",
+  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher.exe",
+  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/0.0.4.1/download/RaytolfasLauncher",
+  "changelog": "Fixing Java installation issues on Linux ARM64-based systems"
 }
