@@ -3,6 +3,12 @@
     "name": "telebot",
     "repo": "RayQuiro/Telebot",
     "description": "Telegram bot framework for RayQuiro with long polling, commands, buttons, documents, and Bot API helpers.",
-    "category": "math"
+    "category": "bot"
+  },
+  {
+    "name": "glaudb",
+    "repo": "RayQuiro/GlauDB",
+    "description": "RayQuiro library for the GlauDB database.",
+    "category": "database"
   }
 ]
