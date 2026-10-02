@@ -2,7 +2,7 @@
   "version": "v26.10.0",
   "download_url": "https://dl.raytolfas.cc/raytolfas-os-d1.iso",
   "changelog": "First release Raytolfas OS D1.",
-  "patch_version": "v26.10.0",
-  "patch_url": "https://dl.raytolfas.cc/raytolfas-os-d1.iso",
-  "patch_changelog": ". . ."
+  "patch_version": "v26.10.1",
+  "patch_url": "https://dl.raytolfas.cc/raytolfas-os-d1-v26.10.1.deb",
+  "patch_changelog": "Fix .apk and add new apps"
 }
