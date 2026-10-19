@@ -1,7 +1,8 @@
 {
-  "version": "0.0.5",
-  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.5/RaytolfasLauncher.exe",
-  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.5/RaytolfasLauncher.exe",
-  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.0.5/RaytolfasLauncher",
-  "changelog": "Global changes & Major design changes"
+  "version": "0.1.0",
+  "download_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.1.0/RaytolfasLauncher.exe",
+  "windows_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.1.0/RaytolfasLauncher.exe",
+  "linux_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.1.0/RaytolfasLauncher-linux",
+  "macos_arm64_url": "https://github.com/Raytolfas/RaytolfasLauncher/releases/download/0.1.0/RaytolfasLauncher-macos-arm64",
+  "changelog": "Stable version"
 }
