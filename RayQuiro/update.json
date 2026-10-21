@@ -1,6 +1,7 @@
 {
-  "version": "0.2.2",
-  "downloadUrl": "https://github.com/Raytolfas/RayQuiro/releases/download/v0.2.2/rqio.exe",
-  "download_url": "https://github.com/Raytolfas/RayQuiro/releases/download/v0.2.2/rqio.exe",
-  "linux_url": "https://github.com/Raytolfas/RayQuiro/releases/download/v0.2.2/rqio"
+  "version": "1.0",
+  "downloadUrl": "https://github.com/Raytolfas/RayQuiro/releases/download/v1.0/rqio.exe",
+  "download_url": "https://github.com/Raytolfas/RayQuiro/releases/download/v1.0/rqio.exe",
+  "linux_url": "https://github.com/Raytolfas/RayQuiro/releases/download/v1.0/rqio",
+  "macos_url": "https://github.com/Raytolfas/RayQuiro/releases/download/v1.0/rqio-macos"
 }
