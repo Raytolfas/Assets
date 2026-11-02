@@ -1,8 +1,8 @@
 {
-  "version": "v26.10.2",
+  "version": "v26.11.0",
   "download_url": "https://dl.raytolfas.cc/raytolfas-os-d1.iso",
   "changelog": "Stable version.",
-  "patch_version": "v26.10.2",
-  "patch_url": "https://github.com/Raytolfas/OS/releases/download/v26.10.2/raytolfas-patch-v26.10.2_amd64.deb",
-  "patch_changelog": "Patch for users on v26.10.0, and v26.10.1.)"
+  "patch_version": "v26.11.0",
+  "patch_url": "https://github.com/Raytolfas/OS/releases/download/v26.10.2/raytolfas-patch-v26.11.0_amd64.deb",
+  "patch_changelog": ". . .)"
 }
